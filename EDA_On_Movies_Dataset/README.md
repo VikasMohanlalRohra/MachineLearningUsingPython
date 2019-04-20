@@ -50,3 +50,5 @@
 
 ### For more details please click on the below link:
 - [Link for the Jupyter Notebook](./Movies_EDA_Project.ipynb)
+- [Link for the PowerPoint Presentation](./Movies_EDA_Project.pptx)
+- [Link for the Movies Dataset](./Movies_Data_Set.xlsx)
