@@ -49,8 +49,8 @@ This repository contains information regarding the different ML projects done in
 - [Exploratory Data Analysis (EDA) on Movies Dataset](#section01) <br/>
 
 <a id = "section01"></a>
-## [Exploratory Data Analysis (EDA) on Movies Dataset](./EDA On Movies Dataset)
+## [Exploratory Data Analysis (EDA) on Movies Dataset](./EDA_On_Movies_Dataset)
 ![image.png](images/Movies.jpg)
 - A film, also called a movie, motion picture, moving picture, or photoplay, is a series of still images that, when shown on a screen, create the illusion of moving images. 
 - Exploratory Data Analysis is carried out on Movies data set in order to make some sense out of the data and tell some conclusions in order to grow the business. 
-- [Jupyter Notebook of Movies Data EDA](./EDA On Movies Dataset/Movies_EDA_Project.ipynb)
+- [Jupyter Notebook of Movies Data EDA](./EDA_On_Movies_Dataset/Movies_EDA_Project.ipynb)
