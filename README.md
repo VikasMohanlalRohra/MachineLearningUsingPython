@@ -46,7 +46,7 @@ This is called as __“Train-Test Cycle”__.
 This repository contains information regarding the different ML projects done in Python language
 
 ## Table of Contents
-- [Exploratory Data Analysis (EDA) on Movies Dataset] (#section01) <br/>
+- [Exploratory Data Analysis (EDA) on Movies Dataset](#section01) <br/>
 
 <a id = "section01"></a>
 ## Exploratory Data Analysis (EDA) on Movies Dataset
