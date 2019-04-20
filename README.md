@@ -46,8 +46,9 @@ This is called as __“Train-Test Cycle”__.
 This repository contains information regarding the different ML projects done in Python language
 
 ## Table of Contents
-- Exploratory Data Analysis (EDA) on Movies Dataset
+- [Exploratory Data Analysis (EDA) on Movies Dataset] (#section01) <br/>
 
+<a id = "section01"></a>
 ## Exploratory Data Analysis (EDA) on Movies Dataset
 ![image.png](images/Movies.jpg)
 - A film, also called a movie, motion picture, moving picture, or photoplay, is a series of still images that, when shown on a screen, create the illusion of moving images. 
