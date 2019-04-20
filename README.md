@@ -1,7 +1,7 @@
 # MachineLearningUsingPython
 
 ### What is Machine Learning?
-![image.png](images/Machine_Learning.jpg)
+![image.png](images/MachineLearning.jpg)
 
 - Machine learning is a form of Artifical intelligence (AI) that enables a system to learn from data rather than through explicit       programming.
 - ML uses a variety of algorithms that iteratively learn from data to improve, describe data, and predict outcomes.
