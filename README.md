@@ -47,6 +47,7 @@ This repository contains information regarding the different ML projects done in
 
 ## Table of Contents
 - [Exploratory Data Analysis (EDA) on Movies Dataset](#section01) <br/>
+- [Machine Learning_Project_On_Insurance_DataSet](#section02) <br/>
 
 <a id = "section01"></a>
 ## [Exploratory Data Analysis (EDA) on Movies Dataset](./EDA_On_Movies_Dataset)
@@ -54,3 +55,10 @@ This repository contains information regarding the different ML projects done in
 - A film, also called a movie, motion picture, moving picture, or photoplay, is a series of still images that, when shown on a screen, create the illusion of moving images. 
 - Exploratory Data Analysis is carried out on Movies data set in order to make some sense out of the data and tell some conclusions in order to grow the business. 
 - [Link for the Jupyter Notebook](./EDA_On_Movies_Dataset/Movies_EDA_Project.ipynb)
+
+<a id = "section02"></a>
+## [Machine Learning Project on Insurance Dataset](./ML_Project_On_Insurance_DataSet)
+![image.png](images/Insurance_Img1.png)
+- Insurance is a contract, represented by a policy, in which an individual or entity receives financial protection or reimbursement against losses from an insurance company.
+- Different machine learning algorithms are applied to dataset in order to improve the accuracy of model, so that model can predict the correct output whenever new set of input data is given to the model.
+- [Link for the Jupyter Notebook](./ML_Project_On_Insurance_DataSet/Insurance_ML_Project.ipynb)
