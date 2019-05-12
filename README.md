@@ -47,7 +47,7 @@ This repository contains information regarding the different ML projects done in
 
 ## Table of Contents
 - [Exploratory Data Analysis (EDA) on Movies Dataset](#section01) <br/>
-- [Machine Learning_Project_On_Insurance_DataSet](#section02) <br/>
+- [Machine Learning Project On Insurance DataSet](#section02) <br/>
 
 <a id = "section01"></a>
 ## [Exploratory Data Analysis (EDA) on Movies Dataset](./EDA_On_Movies_Dataset)
