@@ -6,7 +6,7 @@ __Insurance DataSet__ comprises of 59381 rows X 127 columns.
 - Below is the table showing description of all columns and their description
 
 | Column Name		   |  Description                                                       |
-| -----------------    |  ------------                                                      |
+| -----------------    |  ------------                                                     |
 |Id			           |  A unique identifier associated with an application.               |
 |Product_Info_1-7	   |  A set of normalized variables relating to the product applied for |
 |Ins_Age			   |  Normalized age of applicant                                       |
